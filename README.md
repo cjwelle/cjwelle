@@ -1,11 +1,11 @@
-<p align='center'><img src='https://github.com/cjwelle/cjwelle/raw/master/assets/logo-cw.png>(https://www.christopherwelle.com)</p>
+<p align='center'><img src='https://github.com/cjwelle/cjwelle/raw/master/assets/logo-cw.png'></p></br>
 
 <h1 align='center'>Welcome to my GitHub Account. </h1></br>
 </br>
 Email: Cjwelle@gmail.com</br>
-Linkedin: christopherwelle</br>
-Twitter: cjwelle</br>
-Website: http://www.christopherwelle.com(http://www.christopherwelle.com)</br>
+Linkedin: https://linkedin.com/in/christopherwelle</br>
+Twitter: https://twitter.com/cwelle</br>
+Website: http://www.christopherwelle.com</br>
 Resume (https://github.com/cjwelle/cjwelle/raw/master/assets/CWelle_Resume_July.docx)</br>
 
 Info:</br>
