@@ -1,11 +1,11 @@
-[![Logo for cjwelle](https://github.com/cjwelle/cjwelle/raw/master/assets/logo_cw.png)](https://www.christopherwelle.com)
+[![Logo for cjwelle](https://github.com/cjwelle/cjwelle/raw/master/assets/logo-cw.png)](https://www.christopherwelle.com)
 
 <h1 align='center'>Welcome to my GitHub Account. </h1>
 
 Email: Cjwelle@gmail.com
 Linkedin: christopherwelle
 Twitter: cjwelle
-Website: https://www.christopherwelle.com(https://www.christopherwelle.com)
+Website: http://www.christopherwelle.com(http://www.christopherwelle.com)
 Resume (https://github.com/cjwelle/cjwelle/raw/master/assets/CWelle_Resume_July.docx)
 
 Info:
