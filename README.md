@@ -1,4 +1,4 @@
-[![Logo for cjwelle](https://github.com/cjwelle/cjwelle/raw/master/assets/logo-cw.png)](https://www.christopherwelle.com)
+<p align='center'>[![Logo for cjwelle](https://github.com/cjwelle/cjwelle/raw/master/assets/logo-cw.png)](https://www.christopherwelle.com)</p>
 
 <h1 align='center'>Welcome to my GitHub Account. </h1>
 
